@@ -20,10 +20,10 @@ Full video: https://youtube.com/shorts/yivF33PRSzw?feature=share
 ## Citation
 
 ```
-@misc{barragan2024improving,
+@misc{zhou2025gravity,
       title={Gravity Compensation of the dVRK-Si Patient Side Manipulator based on Dynamic Model Identification}, 
       author={Haoying Zhou, Haoo Yang, Anton Deguet, Loris Fichera, Jie Ying Wu, and Peter Kazanzides},
-      year={2024},
+      year={2025},
       archivePrefix={arXiv},
       primaryClass={cs.RO},
       eprint={will be available soon}
