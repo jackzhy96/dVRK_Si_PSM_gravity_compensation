@@ -26,7 +26,7 @@ Full video: https://youtube.com/shorts/yivF33PRSzw?feature=share
       year={2025},
       archivePrefix={arXiv},
       primaryClass={cs.RO},
-      eprint={will be available soon}
+      eprint={arXiv:2501.19058}
 }
 ```
 
