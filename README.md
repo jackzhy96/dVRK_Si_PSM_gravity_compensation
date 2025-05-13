@@ -29,5 +29,6 @@ Full video: https://youtube.com/shorts/yivF33PRSzw?feature=share
       eprint={arXiv:2501.19058}
 }
 ```
+This paper has been accepted by The Hamlyn Symposium on Medical Robotics 2025 and selected for oral presentation.
 
 ## Source Code will be available soon
